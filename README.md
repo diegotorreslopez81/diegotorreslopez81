@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diegotorreslopez81, a Barcelona native Tech Entrepreneur With more than 20 years experience creating digital solutions.
+- 👋 Hi, I’m @diegotorreslopez81, a curious tech mind with more than 20 years experience developing digital solutions.
 - 👀 I’m interested in Web3, social impact and technology.
 - 🌱 I’m currently learning all I can...after being more than 10 years a project manager, now, I'm focused on the code ⌨️.
 - 💞️ I’m looking to collaborate on anyone who wants to enjoy in Web3.
