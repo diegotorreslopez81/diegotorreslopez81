@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://github.com/diegotorreslopez81?tab=followers">
-    <img src="https://img.shields.io/github/followers/lucadonnoh?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/diegotorreslopez81?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/0xDiegoTorres">
-    <img src="https://img.shields.io/twitter/follow/lucadonnoh?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/0xDiegoTorres?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
