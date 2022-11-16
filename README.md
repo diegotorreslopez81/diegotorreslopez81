@@ -1,17 +1,8 @@
-- 👋 Hi, I’m @diegotorreslopez81
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-![Eddie Jaoude](https://raw.githubusercontent.com/lucadonnoh/lucadonnoh/main/0x33d66941465ac776c38096cb1bc496c673ae7390.png)
-
-<p align="center"><b>Hi! I'm Diego Torres, a Barcelona native Tech Entrepreneur</b></p>
-
-<p align="center">With more than 20 years experience creating digital solutions.</p>
-</p>
-<p align="center">I'm also a <a href="https://masterpiece.so/artist/donnoh">cryptoartist</a>!</p>
-</p>
+- 👋 Hi, I’m @diegotorreslopez81, a Barcelona native Tech Entrepreneur With more than 20 years experience creating digital solutions.
+- 👀 I’m interested in Web3, social impact and technology.
+- 🌱 I’m currently learning all I can...after being more than 10 years a project manager, now, I'm focused on the code ⌨️.
+- 💞️ I’m looking to collaborate on anyone who wants to enjoy in Web3.
+- 📫 To reach me, send me an <a href="mailto:diego@infinitelabs.co">email</a>.
 
 <p align="center">
   <a href="https://github.com/diegotorreslopez81?tab=followers">
