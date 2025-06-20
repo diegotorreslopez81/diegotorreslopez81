@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Web3, Quantum Computing, social impact and technology.
 - 🌱 I’m currently learning all I can...after being more than 10 years a project manager, now, I'm focused on the code ⌨️.
 - 💞️ I’m looking to collaborate on anyone who wants to enjoy in AI, Web3 and Quantum Computing.
-- 📫 To reach me, send me an <a href="mailto:diego@infinitelabs.co">email</a>.
+- 📫 To reach me, send me an <a href="mailto:diego@infinitelabs.co">email</a>. 
 
 <p align="center">
   <a href="https://github.com/diegotorreslopez81?tab=followers">
